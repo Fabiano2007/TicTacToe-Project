@@ -1,6 +1,6 @@
 # TicTacToe-Project
 
-# Leona Istrefi, Fabiano Marino 
+from: Leona Istrefi, Fabiano Marino 
 
 
 
