@@ -1,9 +1,9 @@
 # TicTacToe-Project
 
-from: Leona Istrefi, Fabiano Marino 
+# Leona Istrefi, Fabiano Marino 
 
 
 
 
 
-Index: 
+ # Index: 
