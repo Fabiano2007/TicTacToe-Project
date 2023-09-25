@@ -2,7 +2,7 @@
 
 <ul><li> Our Teacher gave us a few Dokuments to fill, so we did that first. We had to fill an Assigment Brief, where we documnet our Goals and our milestones. On Excel we did a Timetable. 
 On our Timetable we noted on which days we can work on our project and how long we can work on it. Togheter we also had to do a Tasklist. We disscused long about who is going to do which Task, but in the end we came to a very fair decision. 
-Fabiano would do most of the programming, while Leona does most of the Documentation. We also tried not to make our goals to big, becuase we didn't want to not be able to achiev it and put ourselfs in stress. </li></ul>
+Fabiano would do most of the programming, while Leona does most of the Documentation. Besides these tasks, we also had to do a Table, where we needed to write down what we should do, in the worst case scenario. We also tried not to make our goals to big, becuase we didn't want to not be able to achiev it and put ourselfs in stress. </li></ul>
 
 <hr>
 
