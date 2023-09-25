@@ -7,3 +7,4 @@
  ## Index: 
 
  * I [Informing](Informing.md)
+ * P [Planing](Planing.md)
