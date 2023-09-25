@@ -1,11 +1,9 @@
 # TicTacToe-Project
 
-# Leona Istrefi, Fabiano Marino 
+### Leona Istrefi, Fabiano Marino 
 
+<hr>
 
+ ## Index: 
 
-
-
- # Index: 
-
- <li> I [Informing](Informing.md)
+ * I [Informing](Informing.md)
