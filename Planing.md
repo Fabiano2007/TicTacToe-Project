@@ -6,7 +6,7 @@ Fabiano would do most of the programming, while Leona does most of the Documenta
 
 <hr>
 
-## Achievment Brief 
+## Assigment Brief 
 
 ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/37db5947-e903-4642-b845-1a501eea7172)
 
