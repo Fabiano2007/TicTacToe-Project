@@ -8,4 +8,4 @@
 
  # Index: 
 
- I [Informing](Informing.md)
+ <li> I [Informing](Informing.md)
