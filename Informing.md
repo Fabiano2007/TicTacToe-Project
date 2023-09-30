@@ -31,6 +31,8 @@ We also filled out an Assigment Brief, to Inform ourselfs, what exactely we need
 <li> Google Docs </li> 
 <li> GitHub </li> 
 <li> Microsoft excel </li>
-<ul>
+</ul>
+
+<br>
 
 [Back to Index](README.md)
