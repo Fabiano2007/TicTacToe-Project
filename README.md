@@ -8,3 +8,4 @@
 
  * I [Informing](Informing.md)
  * P [Planing](Planing.md)
+ * E [Evaluating/Deciding](Evaluating.md)
