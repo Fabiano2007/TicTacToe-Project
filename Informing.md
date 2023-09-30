@@ -4,7 +4,7 @@
 
 ## Collecting Information 
 
-<ul><li> The first thng both of us had to do was get into a group. After we got into a group togheter, we needed to decide what kind of project both of us want to do. We quickly got into an agreement, about wanting to do a TicTacToe game. TicTacToe is a very easy game, and since both of us had very less (or even no at all) programming experiences, it was the best thing to do.</li></ul>
+<ul><li> The first thing both of us had to do was get into a group. After we got into a group togheter, we needed to decide what kind of project both of us want to do. We quickly got into an agreement, about wanting to do a TicTacToe game. TicTacToe is a very easy game, and since both of us had very less (or even no at all) programming experiences, it was the best thing to do.</li></ul>
 
 <hr>
 
