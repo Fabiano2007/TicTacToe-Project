@@ -8,7 +8,8 @@ Fabiano would do most of the programming, while Leona does most of the Documenta
 
 ## Assigment Brief 
 
-![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/37db5947-e903-4642-b845-1a501eea7172)
+![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/68221763-e1e9-463e-8adc-9d950f0fb8ac)
+
 
 <hr>
 
@@ -20,10 +21,13 @@ Fabiano would do most of the programming, while Leona does most of the Documenta
 
 ## Tasklist
 
-![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/a4ebbde2-9bd1-4aaa-9a50-848e791730e8)
+![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/eaec5a3b-e030-4794-9936-f0c8e7724946)
 
 
 
+<br>
+
+[Back to Index](README.md)
 
 
 
