@@ -8,4 +8,7 @@
 
  * I [Informing](Informing.md)
  * P [Planing](Planing.md)
- * E [Evaluating/Deciding](Decide.md)
+ * E [Deciding](Decide.md)
+ * R [Realising](Realising.md)
+ * K [Controll](Control.md)
+ * A [Assesing](Assessing.md)
