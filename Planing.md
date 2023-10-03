@@ -22,9 +22,16 @@ Fabiano would do most of the programming, while Leona does most of the Documenta
 
 ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/eaec5a3b-e030-4794-9936-f0c8e7724946)
 
+<hr> 
+
+## Gantt Chart 
+(not fully completed yet)
+
+![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/8ac3ef9b-f1ac-45a1-a01f-214da02e1d0e)
 
 
 <br>
+
 
 [Back to Index](README.md)
 
