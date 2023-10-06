@@ -4,7 +4,7 @@
 
 ## Decisions 
 
-(We want to create a Decision Table, so we can put that into our Documentation)
+![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/fcbabdcf-f23a-43a4-bea3-9a9aaba31b0d)
 
 <hr>
 
