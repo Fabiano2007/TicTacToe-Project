@@ -13,6 +13,8 @@
 <ul><li> Before we agreed on making a TicTacToe game, we both wanted to do a Rock Paper Scissors game. In the end we decided againt it, because we thought Rock Paper Scissors would be to easy and we wanted to set us a challenge. 
 We both wanted our first project to be a slight challenge and not to easy. With the help of some research on how easy each project would be and our on skills, we changed it. </li>
 
+<br>
+
   ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/2f9f408a-9849-444a-885b-a0839d8a5c04)
 
 <hr>
