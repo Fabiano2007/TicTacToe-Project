@@ -12,7 +12,7 @@ Fabiano would do most of the programming, while Leona does most of the Documenta
 
 <hr>
 
-## Timetable 
+## Resource plan 
 
 ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/e5c2464e-0c2e-44dd-a0b7-3736d06cf0b3)
 
