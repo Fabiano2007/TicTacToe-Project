@@ -15,7 +15,7 @@
 
   ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/28671e2b-81b8-449e-836a-3b36dbe5b8d7)
 <p>This is the second code we ever pushed onto Github. Here we programmed the "Game Over". If you would ever lose the game, the game over would show to let you know. 
-  Even here, when you run this code nothing is going to be showing, but it is goos to have it here. </p> 
+  Even here, when you run this code nothing is going to be showing, but it is good to have it here. </p> 
 
   <br>
 
