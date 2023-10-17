@@ -1,8 +1,8 @@
-## Leona
+# Leona
 
 <hr>
 
-# Introduction
+## Introduction
 <img src="https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/a332b429-c83b-4d59-93c3-00db52ae6783" width="200">
 
 Name: Leona Istrefi
