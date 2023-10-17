@@ -32,5 +32,5 @@ Each Field has a number, if you want the symbol F to be in the middle you need t
 
 
 ## Us 
-*[Leona](Leona.md)
-*[Fabiano](Fabiano.md)
+* [Leona](Leona.md)
+* [Fabiano](Fabiano.md)
