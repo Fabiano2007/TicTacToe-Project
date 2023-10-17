@@ -22,6 +22,8 @@ Here is an picture to help you understand better:
 Each Field has a number, if you want the symbol F to be in the middle you need to enter number 5. 
 We created our game like this, because it was a lot easier and we thought it would be nice that it was a little bit diffrent.
 
+<hr>
+
 ## Index: 
 
  * I [Informing](Informing.md)
@@ -31,6 +33,7 @@ We created our game like this, because it was a lot easier and we thought it wou
  * K [Controll](Control.md)
  * A [Assesing](Assessing.md)
 
+<hr>
 
 ## Us 
 * [Leona](Leona.md)
