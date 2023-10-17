@@ -11,6 +11,12 @@ The first Person who's letters are in 1 row won.
 
 Our Game is a little bit diffrent. 
 
+We decided that we will use L and F instead of X and O, because we wanted it to be a little more personal.
+Also to put the symbol into a field you need to add numbers. 
+Here is an picture to help you understand better:
+![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/57821246-0b6d-48f4-bfe2-593066053159)
+Each Field has a number, if you want the symbol F to be in the middle you need to enter nuber 5. 
+
 ## Index: 
 
  * I [Informing](Informing.md)
@@ -19,3 +25,8 @@ Our Game is a little bit diffrent.
  * R [Realising](Realize.md)
  * K [Controll](Control.md)
  * A [Assesing](Assessing.md)
+
+
+## Us 
+[Leona](Leona.md)
+[Fabiano](Fabiano.md)
