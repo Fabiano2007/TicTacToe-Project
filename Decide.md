@@ -22,14 +22,14 @@ We both wanted our first project to be a slight challenge and not to easy. With 
 ## Criterias 
 
 <ul>
-<li> Time </li>
-<p> We both definitely wanted to have everything done in time </p>
-<li> Skills </li>
-<p> It was importend to us that we can use our skills and also expand them. We also did not want to overestimate our skills.</p>
-<li> Compare </li>
-<p> We had to compare the two projects togheter, so we could see which once had a bigger impact on us. </p>
-<li> Impact </li>
-<p> We needed to see which Project would give us a better grade and whihc one could be a challenge to us so we can improve our skills. </p>
+<li> Open-Source </li>
+<p>  </p>
+<li> Programming Language </li>
+<p> </p>
+<li> Easy to Develop </li>
+<p> </p>
+<li> Community </li>
+<p>  </p>
 </ul>
 
 <br>
