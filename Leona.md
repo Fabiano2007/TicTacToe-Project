@@ -15,8 +15,7 @@ Company: Accenture
 <br>
 Job: Application Developer 1. Year 
 
-<p> Hello, My Name is Leona Istrefi and i am 15 years old. I live in Dietikon and i go to school in Zurich (TBZ). Last Year, i got an Apprenticship at Accenture AG in Zurich as an Applicationdeveloper. 
-At Home i have one younger Brother who's 12 years old and an younger sister who is 10 years old. Currently i am working on a TicTacToe Project for school. In This Project i am mainly doing the Documentation, which is taking up a lot of time.The Documentation is a very serious part of this Project and i am glad it i s</p>
+<p> Hello, My Name is Leona Istrefi and i am here for the docummenting part of our project. I am Documenting everything that happens on README with IPERKA. I am very invested into the documentation and push everything that is needed on GitHu </p>
 
 <hr>
 
