@@ -15,5 +15,6 @@ Company: Accenture
 <br>
 Job: Application Developer 1. Year 
 
-<p> Hello, My Name is Fabinao Marino and i am 16 years old. I live in Oerlikon and i go to school in Zurich (TBZ). Last Year, i got an Apprenticship at Accenture AG in Zurich as an Applicationdeveloper. 
-At Home i have one older sister who is 18 years old. Currently i am working on a TicTacToe Project for school. In This Project i am mainly doing the Programming, is took its time. Me and Leona both decided it would be smarter if i i did the programming, since at that time i was the only one with some experiences. </p>
+<p> Hello i am Fabiano and i am resposible for the programming part of this Project. I am coding, debugging and perfecting our code for most of the time. Since i have had more coding experiences than Leona in the beginning, we decided it would be better to let me do the programming. </p>
+
+<hr>
