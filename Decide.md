@@ -10,8 +10,8 @@
 
 ## Decison Matrix 
 
-<ul><li> Before we agreed on making a TicTacToe game, we both wanted to do a Rock Paper Scissors game. In the end we decided againt it, because we thought Rock Paper Scissors would be to easy and we wanted to set us a challenge. 
-We both wanted our first project to be a slight challenge and not to easy. With the help of some research on how easy each project would be and our on skills, we changed it. </li>
+Before we agreed on making a TicTacToe game, we both wanted to do a Rock Paper Scissors game. In the end we decided againt it, because we thought Rock Paper Scissors would be to easy and we wanted to set us a challenge. 
+We both wanted our first project to be a slight challenge and not to easy. With the help of some research on how easy each project would be and our on skills, we changed it.
 
 <br>
 
