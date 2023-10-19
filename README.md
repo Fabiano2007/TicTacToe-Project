@@ -19,8 +19,8 @@ Here is an picture to help you understand better:
 ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/57821246-0b6d-48f4-bfe2-593066053159)
 
 
-Each Field has a number, if you want the symbol F to be in the middle you need to enter number 5. 
-We created our game like this, because it was a lot easier and we thought it would be nice that it was a little bit diffrent.
+Each Field has a number, if you want the symbol F to be in the middle you need to enter number 5.     
+We created our game like this, because it was a lot easier and we thought it would be nice that it was a little bit different.
 
 <hr>
 
