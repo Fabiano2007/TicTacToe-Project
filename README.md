@@ -20,7 +20,7 @@ Here is an picture to help you understand better:
 
 
 Each Field has a number, if you want the symbol F to be in the middle you need to enter number 5.     
-We created our game like this, because it was a lot easier and we thought it would be nice that it was a little bit different.
+This was the easiest way for us to do our game. 
 
 <hr>
 
