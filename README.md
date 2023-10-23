@@ -30,7 +30,7 @@ This was the easiest way for us to do our game.
  * P [Planing](Planing.md)
  * E [Deciding](Decide.md)
  * R [Realising](Realize.md)
- * K [Controll](Control.md)
+ * K [Controll](control.md)
  * A [Assesing](Assessing.md)
 
 <hr>
