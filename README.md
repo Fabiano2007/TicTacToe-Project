@@ -31,7 +31,7 @@ This was the easiest way for us to do our game.
  * E [Deciding](Decide.md)
  * R [Realising](Realize.md)
  * K [Controll](control.md)
- * A [Assesing](Assessing.md)
+ * A [Assesing](Assesing.md)
 
 <hr>
 
