@@ -38,3 +38,10 @@ This was the easiest way for us to do our game.
 ## Us 
 * [Leona](Leona.md)
 * [Fabiano](Fabiano.md)
+
+<hr>
+
+## Game 
+
+Here is our game, we hope you will enjoy playing it. 
+
