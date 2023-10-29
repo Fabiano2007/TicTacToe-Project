@@ -1,7 +1,7 @@
 # Assesing 
 <hr>
 
-## Reflectio 
+## Reflection
 
 #### What did we like about our processs and why? 
 
@@ -32,8 +32,13 @@
 
 <hr>
 
-#### Feedback from the users 
+## Feedback from the users 
+<p> We have asked 5 different people to give us a feedback to our project. 
+Here is what they said: 
 
+![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/7c7b39e2-cacd-4d01-9766-b60a364a01f6)
+
+</p>
 
 
 
