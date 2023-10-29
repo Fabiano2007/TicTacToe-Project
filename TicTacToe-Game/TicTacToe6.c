@@ -288,9 +288,9 @@ int main() {
     if (showInstructions == 'y' || showInstructions == 'Y') {
         printf("\n* Instructions \n\n");
         printf("\tThe game is played on a grid that's 3 squares by 3 squares.\n");
-        printf("\tYou are F, your friend (or the computer) is L.");
+        printf("\tYou are F, your friend (or the computer) is L. (To personalize our game, instead of X and O, we have used F and L).\n");
         printf("\tPlayers take turns putting their marks in empty squares.\n");
-        printf("\tThe first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.\n");
+        printf("\tThe first player to get 3 of his/her marks in a row (up, down, across, or diagonally) is the winner.\n");
         printf("\tWhen all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.\n");
     }
 
