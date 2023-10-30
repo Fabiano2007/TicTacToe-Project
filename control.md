@@ -48,6 +48,12 @@
 
 <hr> 
 
+## Defect List 
+
+![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/1a9efbc8-b621-4d1d-a890-aecfe391b82c)
+
+<hr> 
+
 ## Problems 
 <p> As you can see we were very lucky that we did not get a lot of probelems. Still we ran into a few diffrent problem  and will explain these.</p>
 
