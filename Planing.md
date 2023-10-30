@@ -1,14 +1,14 @@
 # Planing: 
 
-<ul><li> Our Teacher gave us a few Dokuments to fill, so we did that first. We had to fill an Assigment Brief, where we documnet our Goals and our milestones. On Excel we did a Timetable. 
-On our Timetable we noted on which days we can work on our project and how long we can work on it. Togheter we also had to do a Tasklist. We disscused long about who is going to do which Task, but in the end we came to a very fair decision. 
-Fabiano would do most of the programming, while Leona does most of the Documentation. Besides these tasks, we also had to do a Table, where we needed to write down what we should do, in the worst case scenario. We also tried not to make our goals to big, becuase we didn't want to not be able to achiev it and put ourselfs in stress. </li></ul>
+<ul><li> Our Teacher gave us a few documents to fill in, so we did that first. We had to fill out an Assignment Brief, where we documented our Goals and our milestones. On Excel, we did a Timetable. 
+On our Timetable, we noted which days we can work on our project and how long we can work on it. Together we also had to do a Task list. We discussed long about who was going to do which task, but in the end, we came to a very fair decision. 
+Fabiano would do most of the programming, while Leona would do most of the Documentation. Besides these tasks, we also had to do a Table, where we needed to write down what we should do, in the worst-case scenario. We also tried not to make our goals too big, because we didn't want to not be able to achieve them and put ourselves under stress. </li></ul>
 
 <hr>
 
 ## How was our Plan made
 
-<p> As soon as we decided what project we want to do, and we did the informing, we started planning. We first started to write down all the things that need to be done (Documentation, Coding, Finalizing, Accepting and all the other things.). After we got a list done with all the things we think are important, we started to arrange them into a order of "What is the most importatn" to "What is less important". In the end we showed the list to our Teacher and after he approved of it we started working.</p>
+<p> As soon as we decided what project we wanted to do, and we did the informing, we started planning. We first started to write down all the things that needed to be done (Documentation, Coding, Finalizing, Accepting, and all the other things.). After we got a list done with all the things we think are important, we started to arrange them into an order of "What is the most important" to "What is less important". In the end, we showed the list to our Teacher, and after he approved it we started working.</p>
 
 <hr>
 
@@ -60,7 +60,7 @@ We decided that we do our tasklist on Excel.
 
 ## Managing our Time
 
-<p> Luckily me and Fabiano did a great time table. There were some days we couldn't work as we planned but we decided to work on other days more. Also we were lucky that Fabiano new about going to Holidays soon enough, so we could include that into our time. Till now we never had any complications with our Time managing. Since we both made a Taslist in the beginning we could plan eversthing smoothly. The only mistake we made was that we didnt plan time for including our Feedback into our Project. Needing to do some diffrences to your project also takes up time, which we forgot to include. Luckily we currently have Holidays and at work we are sometimes allowed to work on our Project, so we do the updating there. </p>
+<p> Luckily, we had a great timetable. There were some days we couldn't work as we planned, but we decided to work on other days more. Also, we were lucky that Fabiano knew about going to Holidays soon enough, so we could include that into our time. Till now, we never had any complications with our Time management. Since we both made a task list in the beginning, we could plan everything smoothly. The only mistake we made was that we didn't plan time for including our Feedback in our Project. Needing to make some differences to your project also takes up time, which we forgot to include. Luckily we currently have Holidays and at work, we are sometimes allowed to work on our Project, so we do the updating there. </p>
 
 <hr>
 
