@@ -1,11 +1,11 @@
 # Controlling 
 <hr> 
-<p> Now comes the phase where we need to chec if our code works. for that we wrote 10 Testingprotocols where we would always check opne thing and see if that worked (example: starting the game.)</p>
+<p> Now comes the phase where we need to check if our code works. For that, we wrote 10 Testing protocols where we would always check one thing and see if that worked (for example: starting the game.)</p>
 
 <hr>
 
 ## Testcase 
-<p> We have done 10 diffrent Testprotocols but they were all a diffrent size and all with diffrent destils. To make it easier or our teacher, we decided to also make a testcase where we did a summary of all testprotocols.</p>
+<p> We have done 10 different Test protocols, but they were all different sizes and all with different details. To make it easier for our teacher, we decided to also make a test case where we did a summary of all test protocols.</p>
 
 ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/569d6c47-6aaf-4d74-a3e7-16e4a8d08898)
 
@@ -55,37 +55,36 @@
 <hr> 
 
 ## Problems 
-<p> As you can see we were very lucky that we did not get a lot of probelems. Still we ran into a few diffrent problem  and will explain these.</p>
+<p> As you can see, we were very lucky that we did not have a lot of problems. Still, we ran into a few different problems and will explain these.</p>
 
 #### Choose what mode you want to play
-<p> Here we only ran into a slight problem. We made two diffrent modes in our game, one where you can play a 2 vs 2 and one where you can play against the computer. The problem was that no matter if you choose 1 or 2 it would always play 2 vs 
- 2. That problem was not very hard to fix and we onl y needed one more run to make sure not it fully works. </p>
+<p> Here we only ran into a slight problem. We made two different modes in our game, one where you can play a 2 vs 2 and one where you can play against the computer. The problem was that no matter if you choose 1 or 2 it would always play 2 vs 2. That problem was not very hard to fix, and we only needed one more run to make sure not it fully worked. </p>
 
  #### When you enter a wrong number, it should let you try again
- <p> Here we saw oiur mistake very late. When we finished writing our code, we typed some wrong numbers in like 10, 100, 20 and more and it would always give us this result:
+ <p> Here we saw our mistake very late. When we finished writing our code, we typed some wrong numbers in like 10, 100, 20, and more, and it would always give us this result:
  
   ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/6ca92e65-13d7-4ffa-a3bf-394eab2def8f)
 
-We were very happy that it worked, then one time when i tested it again i saw that if i typed 0 it would say "Game Terminated"
+We were very happy that it worked, then one time when we tested it again we saw that if we typed 0 it would say "Game Terminated"
 
 ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/b147f75a-9609-43a4-8902-6c57906fd828)
 
-We were thinking about looking for the mistake but we decided not to, becuase we dont have any more time left and the mistake is not cuasing our game any harm so we will let it be. </p>
+We were thinking about looking for the mistake, but we decided not to, because we didn't have any more time left, and the mistake was not causing our game any harm, so we let it be. </p>
 
 #### When you enter a letter instead of a number, it should let you try again
 
-<p> Here we have a very simple mistake. No matter what letter i type in it will always say "Game Terminated"
+<p> Here we have a very simple mistake. No matter what letter we type in, it will always say "Game Terminated"
   
 ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/27d76667-f412-47e4-a216-dfae0b1e14b7)
 
-We saw that mistake a while ago, but we got caught up with some other issues that were a bigger problem so we did those first. Now we again dont have a lot of time left, and we will not change the issue. This Problem is not causing or game any harm and so we will let it be, before we make changes and then our game stops working. </p>
+We saw that mistake a while ago, but we got caught up with some other issues that were a bigger problem, so we did those first. Now we again don't have a lot of time left, and we will not change the issue. This Problem is not causing or game any harm, and so we will let it be before we make changes and then our game stops working. </p>
 
 <hr>
 
 ## Other Issues 
-<p> There is one more issue we saw, after we played our game for a while. There is one mode in our game which is called "Play against Computer". After playing that mode for a while we realised that the Computer does not think logical. There are moments where it does think logical and wins, but there are other where he just randomly sets the letter. 
-We have tried for a very long time to fix this "issue" but we cannot do it. we also tried and asked ChatGPT for help, but even he couldn't help us. 
-We ddecided to leave it like this, because we cannot find a way to fix that. Also we do not want to change or code anymore, because we are scared we will mess it up. </p>
+<p> There is one more issue we saw after we played our game for a while. There is one mode in our game which is called "Play against Computer". After playing that mode for a while we realized that the Computer does not think logically. There are moments where it does think logically and wins, but there are others where it just randomly sets the letter. 
+We have tried for a very long time to fix this "issue" but we cannot do it. We also tried and asked ChatGPT for help, but even he couldn't help us. 
+We decided to leave it like this because we cannot find a way to fix that. Also, we do not want to change or code anymore, because we are scared we will mess it up. </p>
 
 <hr>
 
