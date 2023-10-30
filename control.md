@@ -14,7 +14,7 @@
 
 ## Testprotocols
 
-<p> HEre are all of our 10 Testprotocols in the correct order.</p>
+<p> Here are all of our 10 Testprotocols in the correct order.</p>
 
 #### Starting the game 
 ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/ca715171-fb2c-475c-ab82-bf8aee202a6f)
