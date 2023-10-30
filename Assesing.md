@@ -19,6 +19,7 @@
 <ul>
 <li> We could definetelly take up more time to test our project. It would be more helpful. </li>
 <li> Maybe for the next time our milestones could be more challenging than this time.</li>
+<li> Our Tasklist should be more detailed the next time. </li>
 </ul>
 
 <hr> 
