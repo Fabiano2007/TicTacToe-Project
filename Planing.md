@@ -17,15 +17,15 @@ We have discussed and decided on a few Milesotnes.
 
 <ul>
   <li> Coding Complete </li>
-  <p> Our Code should be done for the first time. Wihtout any finalizing or any perfectioning.</p>
+  <p> Our Code should be done for the first time. Without any finalizing or any perfectionating.</p>
   <li> Start Testing </li>
-  <p> We want to start testing very soon after our Code is done, because we have many diffrent testing protocolls and we also want some of our friends/family members to test it</p>
+  <p> We want to start testing very soon after our Code is done because we have many different testing protocols, and we also want some of our friends/family members to test it</p>
   <li> Stop Testing </li>
   <p> After we tested we also want to be done with it, because being done with the testing means being very close to being finished with our project.</p>
   <li>Finalize the code and Docuemtation</li>
-  <p> After we stopped testing it is time to finalize our code. Changing/adding some small details to our code. After we did this we can say that the Documentation is also nearly done.</p>
+  <p> After we stopped testing, it was time to finalize our code. Changing/adding some small details to our code. After we did this we can say that the Documentation is also nearly done. </p>
   <li> Accepted </li>
-  <p> As soon as all the other Milestones are completed it is time that we accept the way our code and our documentation is. We need to accept the way it turned out.</p>
+  <p> As soon as all the other Milestones are completed it is time that we accept the way our code and our documentation are. We need to accept the way it turned out.</p>
   
 </ul>
 
