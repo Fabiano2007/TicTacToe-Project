@@ -15,7 +15,7 @@ Company: Accenture
 <br>
 Job: Application Developer 1. Year 
 
-<p> Hello i am Fabiano and i am resposible for the programming part of this Project. I am coding, debugging and perfecting our code for most of the time. Since i have had more coding experiences than Leona in the beginning, we decided it would be better to let me do the programming. </p>
+<p> Hello, I am Fabiano, and I am responsible for the programming part of this project. I am coding, debugging, and perfecting our code most of the time. Since I had more coding experience than Leona in the beginning, we decided it would be better to let me do the programming. </p>
 
 <hr>
 
