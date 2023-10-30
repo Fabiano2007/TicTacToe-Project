@@ -10,29 +10,24 @@
   <p>We already had the VS Code on our computer, since we had to use it at School and Work before. We didnt really do much with the VS Code but we created some new Folders to hav eeverything structured.</p>
 </ul>
 
-## Codes
+## Coding 
 
-<p> Here are some code examples. </p>
+<p> Here you can see some of our code examples.</p>
 
-#### 1 
-<p>This is the first part of our code. We think this could be like half of the code we are going too have in the end, but we arent sure. If you would run this code, there would be nothing,
-  because we decided to part our code into two diffrent functions to make it easier for both of us. 
+### The base of the game
+<p>This here is the base of our code. We first of all did the base, so we would already have a start. If you would run this game now, you could play. It is very basic, you would directly be able to add some numbers, without deciding what mode you want to play, without choosing your own name or anyghing likewise. After we had our base, we could start adding our own things to this.  
   
 ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/85b285e4-6777-40ec-bfe3-f2029f2934a9)
 ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/c2023a89-b40d-412a-afa5-0ccb22101d77)
+![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/28671e2b-81b8-449e-836a-3b36dbe5b8d7)
+![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/33d25b02-56fd-4971-8d34-8009165a0b1f)
 
-#### 2 
-<p>This is the second code we ever pushed onto Github. Here we programmed the "Game Over". If you would ever lose the game, the game over would show to let you know. 
-  Even here, when you run this code nothing is going to be showing, but it is good to have it here. </p> 
 
-  ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/28671e2b-81b8-449e-836a-3b36dbe5b8d7)
+<hr>
 
-#### 3 
 
-<p>This is the "last" part we had tp programm for our base to be done. There are still a few things we need to add to our game, but if you would run the game now you could already play. You would firstly get into a small instruction to the game, then you would need to press enter to start playing. Ass soon as you press enter you and someone else can play our game of TicTacToe.</p>
-
-#### 4 
-<p> Over the time we would make a lot of diffrent changes to the part of our code. The Screenshots above show, how the "basic" of our code looked like. If you would have run this game, you would have immediately played the game. there would have been no instructions, no name choosing, no restarting the game, no mode choosing or anythink like that. It would have only been a simple game, with no other things. 
+### Adding 
+<p> Over the time we would make a lot of diffrent changes to the part of our code. The Screenshots above show, how the base of our code looked like. There would have been no instructions, no name choosing, no restarting the game, no mode choosing or anythink like that. It would have only been a simple game, with no other things. Thats is ehy we made some changes to our code, to make it look better. 
 
 In This new updated code of us, you can see that we have added many diffent things to it. YOu can choose the mode, you can choose to see instrucctions or not, you can choose your name, you can choose to exit the game, you can choose to restart and even more! 
 ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/e48518e4-5261-4be3-8d83-05e0a2a3e662)
@@ -48,7 +43,7 @@ In This new updated code of us, you can see that we have added many diffent thin
 
 <hr>
 
-  ## Problems 
+  ## Problems we had
   
   #### 1. 
   <p>In The first code example we did run into some problems. When we started writing the code we did it all in the main. When we did it in the main we ran into many diffrent mistakes and we couldn't really figure them all our because it didnt always make much sense. We had already run into this kind of problem before at work, and there they told us we are making it to complicated with doing everything in the main so we split it up. When we split it up we didnt have any problems anymore.</p>  
