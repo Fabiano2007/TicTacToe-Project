@@ -15,7 +15,7 @@ Company: Accenture
 <br>
 Job: Application Developer 1. Year 
 
-<p> Hello, My Name is Leona Istrefi and i am here for the docummenting part of our project. I am Documenting everything that happens on README with IPERKA. I am very invested into the documentation and push everything that is needed on GitHu </p>
+<p> Hello, My Name is Leona Istrefi, and I am here for the documenting part of our project. I am documenting everything that happens on README with IPERKA. I am very invested in the documentation and push everything that is needed on GitHub. </p>
 
 <hr>
 
