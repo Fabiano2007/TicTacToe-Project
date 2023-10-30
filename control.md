@@ -57,7 +57,8 @@
 
  #### When you enter a wrong number, it should let you try again
  <p> Here we saw oiur mistake very late. When we finished writing our code, we typed some wrong numbers in like 10, 100, 20 and more and it would always give us this result:
- ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/6ca92e65-13d7-4ffa-a3bf-394eab2def8f)
+ 
+  ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/6ca92e65-13d7-4ffa-a3bf-394eab2def8f)
 
 We were very happy that it worked, then one time when i tested it again i saw that if i typed 0 it would say "Game Terminated"
 
