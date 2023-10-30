@@ -45,14 +45,11 @@ In This new updated code of us, you can see that we have added many diffent thin
 
   ## Problems we had
   
-  #### 1. 
-  <p>In The first code example we did run into some problems. When we started writing the code we did it all in the main. When we did it in the main we ran into many diffrent mistakes and we couldn't really figure them all our because it didnt always make much sense. We had already run into this kind of problem before at work, and there they told us we are making it to complicated with doing everything in the main so we split it up. When we split it up we didnt have any problems anymore.</p>  
-  
-  #### 3. 
+  ### The base
+  <p>In The first code example we did run into some problems. When we started writing the code we did it all in the main. When we did it in the main we ran into many diffrent mistakes and we couldn't really figure them all our because it didnt always make much sense. We had already run into this kind of problem before at work, and there they told us we are making it to complicated with doing everything in the main so we split it up. When we split it up we didnt have any problems anymore.
+While we werde doing th last we did have some small problems like forgetting a semicolon, not closing a tag and other small problems. Luckily we never ran into big problems, where we couldn't solve them.</p>
 
-  <p> While we werde doing th last we did have some small problems like forgetting a semicolon, not closing a tag and other small problems. Luckily we never ran into big problems, where we couldn't solve them.</p>
-
-  #### 4. 
+  ### Adding  
 
   <p> We were lucky we did not run into many problems, even though there were some. We sometimes forgot to close a loop or set a semicolon, and searching for the problem it sometimes took us a lot of time. Our problem was that we would think to big and search for a mistake in the writing of the code, instead of looking if we closed some loops. There were times where we were searching so long for the mistake and we couldn't find it, that we asked ChatGPT where our mistake was. Of course we were happy when we see that the mistake wasn't anything big, but we alos felt stupid because how could we miss that. There also was once a problem where Fabiano sent me the code, but when i tried to run it i would always see this: 
     
