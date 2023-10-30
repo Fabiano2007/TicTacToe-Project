@@ -47,6 +47,8 @@ Here is our game, we hope you will enjoy playing it:
 
 https://1drv.ms/u/s!AuOaMIsTc9yJiSz_BdZKhXOlgtp2?e=aZ0z85
 
+<hr>
+
 ## Proof that our game works 
 
 https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/554f33f4-38ac-458e-822a-43630ec03a5e
