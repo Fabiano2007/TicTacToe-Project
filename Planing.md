@@ -46,19 +46,15 @@ How much Time Fabiano has:
 <hr>
 
 ## Tasklist
-
-![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/dbf379b3-8129-4f08-bae4-6b8b5b48cfce)
-
-
 We decided that we do our tasklist on Excel. 
 
+![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/3e78ccd5-c2b6-45d7-ab78-05f3f7970653)
 
 <hr> 
 
 ## Gantt Chart 
-(not fully completed yet)
 
-![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/8ac3ef9b-f1ac-45a1-a01f-214da02e1d0e)
+![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/92bfadbc-b83c-4cab-a211-b71440cf96fe)
 
 <hr> 
 
