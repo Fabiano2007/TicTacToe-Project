@@ -15,7 +15,7 @@
 <hr>
 
 ## Assigment Brief
-We also filled out an Assigment Brief, to Inform ourselfs, what exactely we need to do.
+We also filled out an Assignment Brief, to inform ourselves, what exactly we needed to do.
 
 ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/e94df38d-de39-426d-aeb9-ac5cbe9662fc)
 
@@ -24,7 +24,7 @@ We also filled out an Assigment Brief, to Inform ourselfs, what exactely we need
 
 ## Goals
 
-We decided thta we want to set ourselfs 2 smart goals, which we want to fulfill. 
+We decided that we wanted to set ourselves 2 smart goals, which we want to fulfill. 
 
 ![image](https://github.com/Fabiano2007/TicTacToe-Project/assets/142780434/e814c275-0270-4dfc-8749-dbe8ad028c6e)
 
@@ -34,16 +34,16 @@ We decided thta we want to set ourselfs 2 smart goals, which we want to fulfill.
 ## Tools 
 
 #### VS Studio Code
-<p> We needed to download and istall VS code, so we could start programming our game. </p>
+<p> We needed to download and install VS Code, so we could start programming our game. </p>
 
 #### GitHub
-<p> GitHub is an app, where we can oush and commit codes or open repositories. We need Github so our Teacher can have a look at our project and so we can save all our things.  </p>
+<p> GitHub is an app, where we can push and commit codes or open repositories. We need GitHub, so our Teacher can take a look at our project, and so we can save all our things.  </p>
 
 #### Google-/drive/docs
-<p> We had to use Google to do some research about our code and we had to use Google Drive/Docs because we needed to fill out some documents our Teacher gave us. </p>
+<p> We had to use Google to do some research about our code, and we had to use Google Drive/Docs because we needed to fill out some documents our Teacher gave us. </p>
 
 #### Excel
-<p> On excel we did all of our tables.</p>
+<p> In Excel, we did all of our tables. </p>
 
 
 <hr>
