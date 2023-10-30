@@ -4,13 +4,13 @@
 
 ## Collecting Information 
 
-<ul><li> The first thing both of us had to do was get into a group. After we got into a group togheter, we needed to decide what kind of project both of us want to do. We quickly got into an agreement, about wanting to do a TicTacToe game. TicTacToe is a very easy game, and since both of us had very less (or even no at all) programming experiences, it was the best thing to do.</li></ul>
+<ul><li> The first thing both of us had to do was get into a group. After we got into a group together, we needed to decide what kind of project both of us wanted to do. We quickly got into an agreement, about wanting to do a Tic-tac-toe game. Tic-tac-toe is a very easy game, and since both of us had very little (or even no at all) programming experience, it was the best thing to do.</li></ul>
 
 <hr>
 
 ## Informing if we can do this project 
 
-<ul><li> We both had to discuss if we even had any kind of programming experiences. Leona had no experiences at all, meanwhile Fabiano already had some programming experiences. Fabiano had already started to do some programming at work, while Leona had to do the üK. We both discussed about how far we can get with our project and we decided that with a little help from some YouTube Tutorials and some online Texts we could definitely do it. </li></ul>
+<ul><li> We both had to discuss if we even had any kind of programming experience. Leona had no experience at all, meanwhile, Fabiano already had some programming experience. Fabiano had already started to do some programming at work, while Leona had to do the üK. We both discussed how far we could get with our project, and we decided that with a little help from some YouTube Tutorials and some online texts, we could do it. </li></ul>
 
 <hr>
 
